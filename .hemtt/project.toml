@@ -1,11 +1,11 @@
-mainprefix = "~MAINPREFIX~"     # Ideally, replace "~MAINPREFIX~" across the whole repo with your mod's mainprefix, example "t" (without the "")
-prefix = "~PREFIX~"             # Ideally, replace "~PREFIX~" across the whole repo with your mod's prefix, example "mod" (without the "") 
+mainprefix = "palladium"     # Ideally, replace "palladium" across the whole repo with your mod's mainprefix, example "t" (without the "")
+prefix = "cobalt"             # Ideally, replace "cobalt" across the whole repo with your mod's prefix, example "mod" (without the "") 
 
-name = "Example Mod"
+name = "Pallidium - Cobalt"
 
 [properties]
-author = "Derp Derpington"
-url = "https://github.com/Derpington"
+author = "Bluefield"
+url = "https://github.com/bluefield-creator/Pallidium-Cobalt"
 
 [binarize]
 enabled = true # Default: true

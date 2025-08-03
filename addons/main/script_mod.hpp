@@ -1,7 +1,7 @@
-#define MAINPREFIX ~MAINPREFIX~
-#define PREFIX ~PREFIX~
+#define MAINPREFIX palladium
+#define PREFIX cobalt
 
-#define PREFIX_BEAUTIFIED ~PREFIX~
+#define PREFIX_BEAUTIFIED cobalt
 
 
 #include "script_version.hpp"
